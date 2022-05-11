@@ -51,4 +51,4 @@ dragon.move()
 dragon.skill()
 dragon.skill()
 dragon.skill()
-print(Monster.max_num)\
+print(Monster.max_num)
